@@ -89,7 +89,7 @@ TODO_APP/
 
  ![add task](app/routes/screenshots/add_task.png)
 
- ![complete/delete task](app/routes/screenshots/complete_delete.png)
+ ![delete task](app/routes/screenshots/delete.png)
 
 -----------------------------------------------------------
 
