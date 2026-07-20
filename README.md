@@ -39,6 +39,9 @@ TODO_APP/
 |
 |-- forms.py               #Form definitions
 |-- requirements.txt       #Dependencies
+|
+|-- screenshots/          #app screenshots(add_task,home,login,complete_delete)
+|
 |-- LICENSE
 |-- .gitignore
 |__ README.md              #Documentation
@@ -80,13 +83,13 @@ TODO_APP/
 
 📸 Screenshots
  ### Login page
- ![login page](screenshots/login.png)
+ ![login page](app/routes/screenshots/login.png)
 
- ![home page](screenshots/home.png)
+ ![home page](app/routes/screenshots/home.png)
 
- ![add task](screenshots/add_task.png)
+ ![add task](app/routes/screenshots/add_task.png)
 
- ![complete/delete task](screenshots/complete_delete.png)
+ ![complete/delete task](app/routes/screenshots/complete_delete.png)
 
 -----------------------------------------------------------
 
