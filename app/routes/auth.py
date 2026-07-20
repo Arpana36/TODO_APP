@@ -25,3 +25,4 @@ def logout():
     session.pop('user', None)
     flash('logged out', 'info')
     return redirect(url_for('auth.login'))
+

@@ -40,7 +40,7 @@ TODO_APP/
 |-- forms.py               #Form definitions
 |-- requirements.txt       #Dependencies
 |
-|-- screenshots/          #app screenshots(add_task,home,login,complete_delete)
+|-- screenshots/          #app screenshots(add_task,home,login,done_task,delete)
 |
 |-- LICENSE
 |-- .gitignore
@@ -60,8 +60,8 @@ TODO_APP/
 ## ▶️ Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
-   cd todo-app
+   git clone https://github.com/Arpana36/TODO-APP.git
+   cd TODO-APP
  
 2. Install dependencies
 
@@ -88,6 +88,8 @@ TODO_APP/
  ![home page](app/routes/screenshots/home.png)
 
  ![add task](app/routes/screenshots/add_task.png)
+
+ ![done_task](app/routes/screenshots/done_task.png)
 
  ![delete task](app/routes/screenshots/delete.png)
 
