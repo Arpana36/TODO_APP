@@ -16,35 +16,35 @@ This project demonstrates CRUD operations, dynamic content rendering, and clean 
 
 ## 📂 Project Structure
 TODO_APP/
-|-- run.py      #Entry point
-|
-|-- app/        #core application logic
-|     |
-|     |-- __init__.py
-|     |-- models.py
-|     |-- route/              #Route handlers
-|     |     |-- __init__.py
-|     |     |-- auth.py
-|     |     |__ task.py
-|     |
-|     |-- templates/          #Html templates
-|     |       |-- base.html
-|     |       |-- login.html
-|     |       |-- register.html
-|     |       |__ tasks.html
-|     |
-|     |__ static/               #Stylesheets
-|            |-- css/
-|                 |__ style.css
-|
-|-- forms.py               #Form definitions
-|-- requirements.txt       #Dependencies
-|
-|-- screenshots/          #app screenshots(add_task,home,login,done_task,delete)
-|
-|-- LICENSE
-|-- .gitignore
-|__ README.md              #Documentation
+├── run.py      #Entry point
+│
+├── app/        #core application logic
+│     │
+│     ├── __init__.py
+│     ├── models.py
+│     ├── route/              #Route handlers
+│     │     ├── __init__.py
+│     │     ├── auth.py
+│     │     └── task.py
+│     │
+│     ├── templates/          #Html templates
+│     │       ├── base.html
+│     │       ├── login.html
+│     │       ├── register.html
+│     │       └── tasks.html
+│     │
+│     └── static/               #Stylesheets
+│            └── css/
+│                 └── style.css
+│
+├── forms.py               #Form definitions
+├── requirements.txt       #Dependencies
+│
+├── screenshots/          #app screenshots(add_task,home,login,done_task,delete)
+│
+├── LICENSE
+├── .gitignore
+└── README.md              #Documentation
 
 
 ---------------------------------------------------
@@ -83,15 +83,15 @@ TODO_APP/
 
 📸 Screenshots
  ### Login page
- ![login page](app/routes/screenshots/login.png)
+ ![login page](app/screenshots/login.png)
 
- ![home page](app/routes/screenshots/home.png)
+ ![home page](app/screenshots/home.png)
 
- ![add task](app/routes/screenshots/add_task.png)
+ ![add task](app/screenshots/add_task.png)
 
- ![done_task](app/routes/screenshots/done_task.png)
+ ![done_task](app/screenshots/done_task.png)
 
- ![delete task](app/routes/screenshots/delete.png)
+ ![delete task](app/screenshots/delete.png)
 
 -----------------------------------------------------------
 
