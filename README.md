@@ -83,15 +83,15 @@ TODO_APP/
 
 📸 Screenshots
  ### Login page
- ![login page](app/screenshots/login.png)
+ ![login page](screenshots/login.png)
 
- ![home page](app/screenshots/home.png)
+ ![home page](screenshots/home.png)
 
- ![add task](app/screenshots/add_task.png)
+ ![add task](screenshots/add_task.png)
 
- ![done_task](app/screenshots/done_task.png)
+ ![done_task](screenshots/done_task.png)
 
- ![delete task](app/screenshots/delete.png)
+ ![delete task](screenshots/delete.png)
 
 -----------------------------------------------------------
 
