@@ -1,36 +1,5 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="register-container">
-    <h2>Register</h2>
-    <form method="post">
-        {{ form.hidden_tag() }}
-        <div class="form-group">
-            {{ form.name.label }}
-            {{ from.name(class="from-control") }}
-            {% for error in form.name.error %}
-            <span class="error">{{ error }}</span>
-            {% endfor %}
-        </div>
-        <div class="form-group">
-            {{ form.email.label }}
-            {{ form.email(class="form-control") }}
-            {% for error in form.email.errors %}
-                <span class="error">{{ error }}</span>
-            {% endfor %}
-        </div>
-
-        <div class="form-group">
-            {{ form.password.label }}
-            {{ form.password(class="form-control") }}
-            {% for error in form.password.errors %}
-                <span class="error">{{ error }}</span>
-            {% endfor %}
-        </div>
-
-        <div class="form-group">
-            {{ form.submit(class="btn btn-primary") }}
-        </div>
-    </form>
-</div>
+coming soon.....
 {% endblock %}
